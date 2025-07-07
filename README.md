@@ -1,6 +1,11 @@
 <!-- README.md -->
 
 <h1 align="center">Hey there! 👋 I'm Shivam Sah</h1>
+<p align="center">
+  <img src="[https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="200"/><br/>
+  <strong>Let’s build the future, one PR at a time!</strong> 💡
+</p>
+
 <h3 align="center">💻 Backend Wizard • ☁️ Cloud Crafter • ⚙️ Automation Nerd</h3>
 
 
