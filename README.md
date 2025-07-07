@@ -3,9 +3,7 @@
 <h1 align="center">Hey there! 👋 I'm Shivam Sah</h1>
 <h3 align="center">💻 Backend Wizard • ☁️ Cloud Crafter • ⚙️ Automation Nerd</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI2ZTZwbDg2OHZhc2E3dzVjZWJrZmZxb3U1dGR1azVvYjA1eHpwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gHgvjwHaC1HqvvTp4t/giphy.gif" width="200"/>
-</p>
+
 
 ---
 
@@ -80,7 +78,3 @@ OOP + MVC + JUnit magic = 📸 Command-line image editing wizardry
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="200"/><br/>
-  <strong>Let’s build the future, one PR at a time!</strong> 💡
-</p>
