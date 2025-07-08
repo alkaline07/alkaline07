@@ -104,6 +104,6 @@ OOP + MVC + JUnit magic = 📸 Command-line image editing wizardry
 
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250708T051549Z&X-Amz-Expires=300&X-Amz-Signature=38fcda023d98854e81014937f2bca9cd98a85ec7fb075c443b226e6fad918881&X-Amz-SignedHeaders=host" width="400" title="When you deploy on Friday and it works... kind of">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5NTIwNDksIm5iZiI6MTc1MTk1MTc0OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDA1MTU0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZmNkYTAyM2Q5ODg1NGU4MTAxNDkzN2YyYmNhOWNkOThhODVlYzdmYjA3NWM0NDNiMjI2ZTZmYWQ5MTg4ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.E5FI52_V2APgr4bk8-R6FrSW1Cfp01eh56CfSTo085U" width="400" title="When you deploy on Friday and it works... kind of">
 </p>
 
