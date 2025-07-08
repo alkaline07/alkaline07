@@ -8,6 +8,9 @@
 
 <h3 align="center">💻 Backend Wizard • ☁️ Cloud Crafter • ⚙️ Automation Nerd</h3>
 
+> 🚀 **Note:** Many of my repositories are private due to proprietary projects and university guidelines.  
+> 👀 Curious about my work? I'd be happy to walk you through select projects — just [reach out](mailto:shivamsah0502@gmail.com)!
+
 
 
 ---
