@@ -102,21 +102,22 @@ OOP + MVC + JUnit magic = 📸 Command-line image editing wizardry
 </p>
 
 
-### 🎧 What I'm Listening To
+
+### 😂 Meme Wall – Because Why Not?
 
 <p align="center">
-  <img src="https://spotify-now-playing-alkaline07.vercel.app/api/spotify-playing" alt="Now Playing on Spotify" width="350"/>
+  <img src="https://i.imgur.com/3vManIe.png" width="350" alt="Java Memory Leak Meme" title="Yes, I GC for fun">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/WOZ8Lbo.png" width="350" alt="Coding vs Debugging Meme" title="Realest dev fight">
 </p>
-
-> 🎶 Music keeps the code flowing...
-
----
-
-### 🔥 My Current Top Tracks
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=5" alt="Top Tracks" width="400"/>
+  <img src="https://i.imgur.com/BIZ1oV3.png" width="350" alt="StackOverflow Meme" title="My mentor since 2015">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/XDJQuo5.png" width="350" alt="Merge Conflict Meme" title="Evergreen pain">
 </p>
 
----
+<p align="center">
+  <em>More memes = more dopamine = better coding. Proven. 🧠</em>
+</p>
 
