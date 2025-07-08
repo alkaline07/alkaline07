@@ -103,21 +103,7 @@ OOP + MVC + JUnit magic = 📸 Command-line image editing wizardry
 
 
 
-### 😂 Meme Wall – Because Why Not?
-
 <p align="center">
-  <img src="https://i.imgur.com/3vManIe.png" width="350" alt="Java Memory Leak Meme" title="Yes, I GC for fun">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/WOZ8Lbo.png" width="350" alt="Coding vs Debugging Meme" title="Realest dev fight">
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/BIZ1oV3.png" width="350" alt="StackOverflow Meme" title="My mentor since 2015">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/XDJQuo5.png" width="350" alt="Merge Conflict Meme" title="Evergreen pain">
-</p>
-
-<p align="center">
-  <em>More memes = more dopamine = better coding. Proven. 🧠</em>
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250708T051549Z&X-Amz-Expires=300&X-Amz-Signature=38fcda023d98854e81014937f2bca9cd98a85ec7fb075c443b226e6fad918881&X-Amz-SignedHeaders=host" width="400" title="When you deploy on Friday and it works... kind of">
 </p>
 
