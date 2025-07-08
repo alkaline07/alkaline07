@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there! 👋 I'm Shivam Sah</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height = "300"/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" height = "500"/><br/>
   <strong>Let’s build the future, one PR at a time!</strong> 💡
 </p>
 
@@ -104,6 +104,6 @@ OOP + MVC + JUnit magic = 📸 Command-line image editing wizardry
 
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5NTIwNDksIm5iZiI6MTc1MTk1MTc0OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDA1MTU0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZmNkYTAyM2Q5ODg1NGU4MTAxNDkzN2YyYmNhOWNkOThhODVlYzdmYjA3NWM0NDNiMjI2ZTZmYWQ5MTg4ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.E5FI52_V2APgr4bk8-R6FrSW1Cfp01eh56CfSTo085U" width="400" title="When you deploy on Friday and it works... kind of">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5NTIwNDksIm5iZiI6MTc1MTk1MTc0OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA4VDA1MTU0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZmNkYTAyM2Q5ODg1NGU4MTAxNDkzN2YyYmNhOWNkOThhODVlYzdmYjA3NWM0NDNiMjI2ZTZmYWQ5MTg4ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.E5FI52_V2APgr4bk8-R6FrSW1Cfp01eh56CfSTo085U" width="700" height="500" title="When you deploy on Friday and it works... kind of">
 </p>
 
