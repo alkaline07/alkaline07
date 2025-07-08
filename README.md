@@ -101,5 +101,22 @@ OOP + MVC + JUnit magic = 📸 Command-line image editing wizardry
   <a href="https://github.com/alkaline07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+
+### 🎧 What I'm Listening To
+
+<p align="center">
+  <img src="https://spotify-now-playing-alkaline07.vercel.app/api/spotify-playing" alt="Now Playing on Spotify" width="350"/>
+</p>
+
+> 🎶 Music keeps the code flowing...
+
+---
+
+### 🔥 My Current Top Tracks
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=5" alt="Top Tracks" width="400"/>
+</p>
+
 ---
 
