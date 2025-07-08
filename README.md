@@ -76,7 +76,7 @@ OOP + MVC + JUnit magic = 📸 Command-line image editing wizardry
 
 ---
 
-![](https://komarev.com/ghpvc/?username=alkaline07&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=brightergreen&base=357)
 
 ### 🧩 Fun Facts
 
