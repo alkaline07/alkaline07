@@ -52,6 +52,15 @@
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-GPT4-%23414141.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
